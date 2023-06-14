@@ -1,3 +1,13 @@
+Tener instalado:
+  * Python
+  * MySql
+
+Luego de clonar el repo, antes de ejecutar cualquier comando es importante estar ubicados dentro de la carpeta todoer. Se puede verificar con el siguiente comando:
+
+```
+pwd
+```
+
 Crear un entorno virtual
 
 ```
